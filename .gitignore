@@ -1,0 +1,6 @@
+# Ornden für Daten
+Data/
+
+# checkpoint
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
